@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
 
         etName = (EditText) findViewById(R.id.etName);
         etProfession = (EditText) findViewById(R.id.etProfession);
-
         txvName = (TextView) findViewById(R.id.txvName);
         txvProfession = (TextView) findViewById(R.id.txvProfession);
 
